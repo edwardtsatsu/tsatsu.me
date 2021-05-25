@@ -1,1 +1,1 @@
-alert("ARE YOU HAPPY CODING?");
+alert("Github cliks are not clickable");

@@ -1,1 +1,1 @@
-alert("kindly note, Github links are not clickable")
+alert("WELCOME! BE HAPPY AND CALM");

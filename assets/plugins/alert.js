@@ -1,1 +1,1 @@
-alert("WELCOME! BE HAPPY AND CALM");
+alert("ARE YOU HAPPY CODING?");

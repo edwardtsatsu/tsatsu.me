@@ -1,1 +1,1 @@
-alert("Github links are not clickable");
+// alert("Github links are not clickable");

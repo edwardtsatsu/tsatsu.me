@@ -1,1 +1,1 @@
-// alert("Github links are not clickable");
+alert("Ask permission by sending me a personal email to download my transcript!");
